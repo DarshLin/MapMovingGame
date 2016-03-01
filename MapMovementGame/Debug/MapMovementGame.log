@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\darsh.windows-fualfl5\documents\visual studio 2015\projects\mapmovementgame\mapmovementgame\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MapMovementGame.vcxproj -> c:\users\darsh.windows-fualfl5\documents\visual studio 2015\Projects\MapMovementGame\Debug\MapMovementGame.exe
+  MapMovementGame.vcxproj -> c:\users\darsh.windows-fualfl5\documents\visual studio 2015\Projects\MapMovementGame\Debug\MapMovementGame.pdb (Partial PDB)
